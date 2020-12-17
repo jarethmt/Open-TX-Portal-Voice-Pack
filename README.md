@@ -1,5 +1,5 @@
 # Open TX Portal Voice Pack #
-This is a complete OpenTX voice pack based on the popular "Portal" game. Every voice in this pack has been adapted to sound like GLADoS, the main antagonist in the Portal series. There are some other lines from other in game characters as well.
+This is a complete OpenTX voice pack based on the popular "Portal" game. Every voice in this pack has been adapted to sound like GLaDOS, the main antagonist in the Portal series. There are some other lines from other in game characters as well.
 
 ## Inspiration ##
 - [This Reddit Post](https://www.reddit.com/r/Multicopter/comments/4ybqup/i_made_a_glados_sound_pack_for_the_taranis/)
@@ -13,7 +13,7 @@ For full setup instructions, plesae refer to [this video on my YouTube channel](
 - Signal warnings are replaced with Wheatley asking "Where are you going?" and to "just turn around..."
 - Mid/Min/Max trim warnings are replaced by buzzers and puzzle completion warnings.
 - Custom switch warning.
-- Every file in the voice pack has had a GLADoS effect applied to it, making this the first COMPLETE Portal voice pack for OpenTX.
+- Every file in the voice pack has had a GLaDOS effect applied to it, making this the first COMPLETE Portal voice pack for OpenTX.
 - There are standard warnings / alerts for just about everything, and there are also upwards of 15 - 20 custom quotes / lines from the games.
 
 ## About the Creator / Voice Pack ##
