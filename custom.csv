@@ -1,0 +1,38 @@
+SOUNDS/en/SYSTEM;hello.wav;Hello, and again, welcome to the Aperture Science Enrichment Center.
+SOUNDS/en/SYSTEM;hello1.wav;Howdy, stranger! We're back!
+SOUNDS/en/SYSTEM;hello2.wav;Well, hello, stranger!
+SOUNDS/en/SYSTEM;inactiv.wav;Hello? Can you--can you pick me up, please?
+SOUNDS/en/SYSTEM;inactiv1.wav;Ohhh. Remember when you picked me up? Five seconds ago! Ohhh, that was amazing! Do it again, pick me up again!
+SOUNDS/en/SYSTEM;inactiv2.wav;Sorry, are you still there? Could you--could you pick me up?
+SOUNDS/en/SYSTEM;lowbatt.wav;Hand held portal device battery depleted, please change battery.
+SOUNDS/en/SYSTEM;maxtrim.wav;[BUZZER]
+SOUNDS/en/SYSTEM;midtrim.wav;[BUTTON POSITIVE]
+SOUNDS/en/SYSTEM;mintrim.wav;[BUZZER]
+SOUNDS/en/SYSTEM;rssi_org.wav;Wait, where are you going? Where are you going?
+SOUNDS/en/SYSTEM;rssi_red.wav;Could you turn around? Is that possible?
+SOUNDS/en/SYSTEM;swalert.wav;*cough* Button.
+SOUNDS/en/SYSTEM;swalert1.wav;I'll give you a hint. Button. That's all I'm gonna say. One word. Button.
+SOUNDS/en/SYSTEM;timovr1.wav;[BUZZER]
+SOUNDS/en/SYSTEM;timovr2.wav;[BUZZER]
+SOUNDS/en/SYSTEM;timovr3.wav;[BUZZER]
+SOUNDS/en;arm2;Deploying
+SOUNDS/en;batt1.wav;Battery level low.
+SOUNDS/en;batt2.wav;Battery level critical.
+SOUNDS/en;batt3.wav;That extra half volt helps but it isn't going to power miracles. I'm still a potato.
+SOUNDS/en;batt4.wav;Warning. Reactor core is at critical temperature.
+SOUNDS/en;batt5.wav;Warning: Core overheating. Nuclear meltdown imminent.
+SOUNDS/en;bird.wav;BIRD BIRD BIRD BIRD
+SOUNDS/en;button.wav;[BUTTON POSITIVE]
+SOUNDS/en;buzz.wav;[BUZZER]
+SOUNDS/en;crterr.wav;Critical error
+SOUNDS/en;fire.wav;I’m on fire ow.
+SOUNDS/en;nobut.wav;Do not press that button!
+SOUNDS/en;nobut2.wav;Don't press that button. You don't know what you're doing.
+SOUNDS/en;nope.wav;Annnnnnnnd... Nothing.
+SOUNDS/en;sigcrt.wav;Could you turn around? Is that possible?
+SOUNDS/en;siglow.wav;Wait, where are you going? Where are you going?
+SOUNDS/en;space.wav;SPAAACCCCCE!
+SOUNDS/en;tgtlst.wav;Target lost
+SOUNDS/en;timtrv.wav;Alright, this next test may involve trace amounts of time travel.
+SOUNDS/en;warn.wav;Let us know if you feel a shortness of breath, a persistent dry cough or your heart stopping. Because that's not part of the test.
+SOUNDS/en;whee.wav;
