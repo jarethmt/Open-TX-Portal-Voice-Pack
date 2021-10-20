@@ -19,6 +19,6 @@ For full setup instructions, plesae refer to [this video on my YouTube channel](
 ## About the Creator / Voice Pack ##
 I'm a web designer / developer by day, and flying quadcopters is one of my favorite hobbies. I just got a Taranis QX7 for Christmas and decided to take some time to create a fun voice pack for the community. I'm releasing the pack free of charge, but if you like this pack and want to support me, drop by and check out my [YouTube channel](https://www.youtube.com/channel/UCMK3_KYcJNlNJ_2X_UjrLfA) and consider giving me a subscription. Thanks!
 ## OTX 2.3 update ##
-All sounds regenerated using https://glados.c-net.org/ and redundant ones removed (custom portal ones retained)
-generate.sh written to automate the generation of stock sounds using https://glados.c-net.org/ and the csv sound file supplied in the opentx sdcard download.
-scrip tested on raspberry pi os.
+- All sounds regenerated using https://glados.c-net.org/ and redundant ones removed (custom portal ones retained).
+- generate.sh written to automate the generation of stock sounds using https://glados.c-net.org/ and the csv sound file supplied in the opentx sdcard download.
+- scrip tested on raspberry pi os.
