@@ -22,3 +22,4 @@ I'm a web designer / developer by day, and flying quadcopters is one of my favor
 - All sounds regenerated using https://glados.c-net.org/ and redundant ones removed (custom portal ones retained).
 - generate.sh written to automate the generation of stock sounds using https://glados.c-net.org/ and the csv sound file supplied in the opentx sdcard download.
 - script tested on raspberry pi os.
+- sound levels normalised but are a little louder than the original.
